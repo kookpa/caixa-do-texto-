@@ -1,0 +1,10 @@
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\bin\Debug\blocodetexto.exe.config
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\bin\Debug\blocodetexto.exe
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\bin\Debug\blocodetexto.pdb
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\obj\Debug\blocodetexto.csproj.AssemblyReference.cache
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\obj\Debug\blocodetexto.Form1.resources
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\obj\Debug\blocodetexto.Properties.Resources.resources
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\obj\Debug\blocodetexto.csproj.GenerateResource.cache
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\obj\Debug\blocodetexto.csproj.CoreCompileInputs.cache
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\obj\Debug\blocodetexto.exe
+C:\Users\rafaela.ngodoi\source\repos\Nova pasta\blocodetexto\blocodetexto\obj\Debug\blocodetexto.pdb
